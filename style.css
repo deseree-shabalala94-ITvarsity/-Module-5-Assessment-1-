@@ -226,10 +226,7 @@ h1{
 #mercury-lable{
     bottom: 189px;
 }
-/*============================Please Remove==================================*/
-#container{
-    transform: scale(0.8, 0.8) translate(0, 700px);
-}
+
 
 /*============================Lable Box==================================*/
 .lable-box{
